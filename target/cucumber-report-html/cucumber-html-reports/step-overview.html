@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="js/Chart.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/reporting.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<title>Cucumber-JVM Reports  - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber-JVM Report</p>
+      <ul class="nav navbar-nav navbar-right">
+                <li role="presentation" ><a href="feature-overview.html">Features</a></li>
+        <li role="presentation" ><a href="tag-overview.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="step-overview.html">Steps</a></li>
+        <li role="presentation" ><a href="failures-overview.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid" id="build-info">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-1">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Project</th>
+                          <th>Number</th>
+                        <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="info">
+            <td>Ecommerce</td>
+                          <td>1</td>
+                        <td>15 Mar 2022, 17:37</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="report-lead" class="container-fluid>
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <h2>Steps Statistics</h2>
+              <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+          </div>
+  </div>
+</div>
+
+<div class="container-fluid" id="summary">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+              <table id="tablesorter" class="stats-table table-hover">
+
+          <thead>
+            <tr class="header">
+              <th>Implementation</th>
+              <th>Occurrences</th>
+              <th>Duration</th>
+              <th>Average</th>
+              <th>Ratio</th>
+            </tr>
+          </thead>
+
+          <tbody>
+                          <tr>
+                <td class="location">Hooks.closeBrowser(Scenario)</td>
+                <td>9</td>
+                <td class="duration" data-value="6004267900">6s 004ms</td>
+                <td class="duration" data-value="667140877">667ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Hooks.setUp(Scenario)</td>
+                <td>9</td>
+                <td class="duration" data-value="25915925400">25s 915ms</td>
+                <td class="duration" data-value="2879547266">2s 879ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Login.i_login_to_application_using_username_something_and_password_something(String,String)</td>
+                <td>3</td>
+                <td class="duration" data-value="1682536400">1s 682ms</td>
+                <td class="duration" data-value="560845466">560ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Login.i_navigate_to_login_page()</td>
+                <td>4</td>
+                <td class="duration" data-value="3498647100">3s 498ms</td>
+                <td class="duration" data-value="874661775">874ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Login.i_reset_the_forgotten_password_for_email(String)</td>
+                <td>1</td>
+                <td class="duration" data-value="1184009100">1s 184ms</td>
+                <td class="duration" data-value="1184009100">1s 184ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Login.i_should_see_a_message_informing_the_user_that_information_related_to_resetting_password_have_been_sent_to_email_address()</td>
+                <td>1</td>
+                <td class="duration" data-value="33400">000ms</td>
+                <td class="duration" data-value="33400">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Login.i_should_see_that_user_is_able_to_login_successfully()</td>
+                <td>1</td>
+                <td class="duration" data-value="45000">000ms</td>
+                <td class="duration" data-value="45000">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Login.i_should_see_validation_message_for_incorrect_credentials()</td>
+                <td>2</td>
+                <td class="duration" data-value="75900">000ms</td>
+                <td class="duration" data-value="37950">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Order.i_add_any_product_to_Bag_and_checkout()</td>
+                <td>1</td>
+                <td class="duration" data-value="1895581100">1s 895ms</td>
+                <td class="duration" data-value="1895581100">1s 895ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Order.i_login_to_the_application()</td>
+                <td>1</td>
+                <td class="duration" data-value="4716346200">4s 716ms</td>
+                <td class="duration" data-value="4716346200">4s 716ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Order.i_place_an_order()</td>
+                <td>1</td>
+                <td class="duration" data-value="30379029700">30s 379ms</td>
+                <td class="duration" data-value="30379029700">30s 379ms</td>
+                <td class="failed">0.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Order.i_should_see_that_the_order_is_placed_successfully()</td>
+                <td>1</td>
+                <td class="duration" data-value="0">000ms</td>
+                <td class="duration" data-value="0">000ms</td>
+                <td class="failed">0.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_click_on_Continue_button()</td>
+                <td>2</td>
+                <td class="duration" data-value="690826600">690ms</td>
+                <td class="duration" data-value="345413300">345ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_launch_the_application()</td>
+                <td>8</td>
+                <td class="duration" data-value="238685858100">3m 58s 685ms</td>
+                <td class="duration" data-value="29835732262">29s 835ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_navigate_to_Account_Registration_page()</td>
+                <td>2</td>
+                <td class="duration" data-value="2072369700">2s 072ms</td>
+                <td class="duration" data-value="1036184850">1s 036ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_provide_all_the_below_valid_details(DataTable)</td>
+                <td>1</td>
+                <td class="duration" data-value="429127800">429ms</td>
+                <td class="duration" data-value="429127800">429ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_select_the_Privacy_Policy()</td>
+                <td>1</td>
+                <td class="duration" data-value="74218700">074ms</td>
+                <td class="duration" data-value="74218700">074ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_should_see_error_message_informing_the_user_to_fill_the_mandatory_fields()</td>
+                <td>1</td>
+                <td class="duration" data-value="71000">000ms</td>
+                <td class="duration" data-value="71000">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_should_see_that_the_user_Account_is_not_created()</td>
+                <td>1</td>
+                <td class="duration" data-value="5816400">005ms</td>
+                <td class="duration" data-value="5816400">005ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Register.i_should_see_user_is_restricted_from_creating_duplicate_account()</td>
+                <td>1</td>
+                <td class="duration" data-value="34907700">034ms</td>
+                <td class="duration" data-value="34907700">034ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Search.i_search_for_a_product(String)</td>
+                <td>2</td>
+                <td class="duration" data-value="1661640700">1s 661ms</td>
+                <td class="duration" data-value="830820350">830ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Search.i_should_see_message(String)</td>
+                <td>1</td>
+                <td class="duration" data-value="81500">000ms</td>
+                <td class="duration" data-value="81500">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Search.i_should_see_the_product_in_the_search_resultsil_address()</td>
+                <td>1</td>
+                <td class="duration" data-value="32700">000ms</td>
+                <td class="duration" data-value="32700">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                      </tbody>
+
+          <tfoot class="total">
+            <tr>
+              <td>23</td>
+              <td>55</td>
+              <td class="duration">5m 18s 931ms</td>
+              <td class="duration">5s 798ms</td>
+              <td>Totals</td>
+            </tr>
+          </tfoot>
+
+        </table>
+          </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>

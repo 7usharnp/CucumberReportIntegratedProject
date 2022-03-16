@@ -1,0 +1,961 @@
+2022-03-11 10:53:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 10:53:45 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2022-03-11 10:53:45 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 10:53:45 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2022-03-11 12:43:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 12:43:32 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2022-03-11 12:43:32 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 12:43:32 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2022-03-11 12:45:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 12:45:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1112758237
+2022-03-11 12:45:15 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 12:45:15 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2022-03-11 13:45:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 13:45:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 13:45:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started859123506
+2022-03-11 13:45:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 13:45:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-11 13:48:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 13:48:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 13:48:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started859123506
+2022-03-11 13:48:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 13:48:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-11 13:58:10 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 13:58:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 13:58:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started612693043
+2022-03-11 13:58:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 13:58:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-11 14:09:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 14:09:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 14:09:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1764291958
+2022-03-11 14:09:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 14:09:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-11 15:35:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 15:35:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 15:35:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started164439551
+2022-03-11 15:35:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 15:35:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-11 17:32:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:32:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 17:32:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2142893855
+2022-03-11 17:33:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:33:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-11 17:35:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:35:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 17:35:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1364127192
+2022-03-11 17:35:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:35:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-11 17:40:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:40:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 17:40:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started124494140
+2022-03-11 17:40:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:40:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-11 17:42:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:42:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-11 17:42:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started403598020
+2022-03-11 17:42:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-11 17:42:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 11:52:08 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-14 11:52:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 11:52:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started403598020
+2022-03-14 11:52:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-14 11:52:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 11:52:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 11:52:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 11:52:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started682981033
+2022-03-14 11:52:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 11:52:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 12:21:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:21:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 12:21:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1611221523
+2022-03-14 12:21:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:21:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 12:37:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:37:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 12:37:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1611221523
+2022-03-14 12:37:57 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:37:57 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 12:38:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-14 12:38:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 12:38:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1535116392
+2022-03-14 12:38:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-14 12:38:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 12:38:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:38:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 12:38:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started347791431
+2022-03-14 12:38:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:38:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 12:40:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-14 12:40:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 12:40:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1535116392
+2022-03-14 12:40:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-14 12:40:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 12:41:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:41:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 12:41:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started347791431
+2022-03-14 12:41:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 12:41:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 13:11:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 13:11:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:11:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1611221523
+2022-03-14 13:11:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 13:11:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 13:12:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 13:12:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:12:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1611221523
+2022-03-14 13:12:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 13:12:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 13:20:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 13:20:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:20:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1611221523
+2022-03-14 13:20:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-14 13:20:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 13:25:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:25:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:25:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started473073770
+2022-03-14 13:25:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:25:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 13:35:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:35:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:35:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1933328958
+2022-03-14 13:35:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:35:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 13:37:59 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:37:59 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2022-03-14 13:39:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:39:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:39:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1933328958
+2022-03-14 13:39:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:39:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 13:40:23 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:40:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 13:40:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started473073770
+2022-03-14 13:40:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-14 13:40:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 14:06:15 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:06:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 14:06:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 14:06:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:06:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 14:10:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:10:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 14:10:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 14:10:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:10:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 14:11:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:11:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 14:11:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 14:11:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:11:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 14:17:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:17:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 14:17:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 14:17:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:17:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 14:27:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:27:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 14:27:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 14:27:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 14:27:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 15:11:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:11:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:11:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1185618138
+2022-03-14 15:11:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:11:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:11:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 15:11:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:11:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started486662053
+2022-03-14 15:11:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-14 15:11:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 15:13:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:13:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:13:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started473073770
+2022-03-14 15:13:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:13:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:20:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:20:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:20:23 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started473073770
+2022-03-14 15:20:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:20:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:26:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:26:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:26:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 15:26:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:26:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:28:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:28:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:28:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 15:29:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:29:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:30:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:30:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:31:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 15:31:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:31:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 15:41:02 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:41:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:41:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 15:41:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:41:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:42:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:42:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:42:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 15:42:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:42:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 15:43:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 15:43:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:43:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 15:43:31 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 15:43:31 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 15:48:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-14 15:48:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 15:48:34 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 15:48:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-14 15:48:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 16:26:08 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-14 16:26:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 16:26:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 16:26:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-14 16:26:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 16:57:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-14 16:57:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 16:57:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 16:57:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-14 16:57:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 17:01:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 17:01:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:01:34 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 17:01:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 17:01:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 17:28:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 17:28:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:28:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 17:28:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 17:28:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 17:39:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 17:39:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:39:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 17:39:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 17:39:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 17:40:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 17:40:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:40:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746257394
+2022-03-14 17:40:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 17:40:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 17:41:30 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 17:41:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:41:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 17:41:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 17:41:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 17:43:10 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 17:43:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:43:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started773348567
+2022-03-14 17:43:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 17:43:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 17:43:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-14 17:43:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:43:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started600657906
+2022-03-14 17:43:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-14 17:43:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 17:43:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-14 17:43:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:43:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1467977993
+2022-03-14 17:43:44 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-14 17:43:44 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 17:43:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 17:43:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 17:43:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1161382705
+2022-03-14 17:43:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 17:43:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 18:23:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-14 18:23:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:23:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1298380324
+2022-03-14 18:23:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-14 18:23:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 18:23:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-14 18:23:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:23:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1075996552
+2022-03-14 18:23:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-14 18:23:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 18:23:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-14 18:23:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:23:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1179272258
+2022-03-14 18:24:25 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2022-03-14 18:24:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-14 18:24:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:24:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1564078808
+2022-03-14 18:24:30 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-14 18:24:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:24:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-14 18:24:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 18:24:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1611221523
+2022-03-14 18:24:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-14 18:24:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 18:49:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-14 18:49:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:49:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 18:49:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-14 18:49:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 18:51:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-14 18:51:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:51:23 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 18:51:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-14 18:51:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-14 18:58:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-14 18:58:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 18:58:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 18:58:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-14 18:58:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-14 19:07:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-14 19:07:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 19:07:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 19:07:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-14 19:07:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-14 19:08:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-14 19:08:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-14 19:08:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1523510420
+2022-03-14 19:08:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-14 19:08:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 09:20:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 09:20:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 09:20:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started977997405
+2022-03-15 09:20:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 09:20:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-03-15 10:09:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-15 10:09:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2010070923
+2022-03-15 10:09:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-15 10:09:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:09:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-15 10:09:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started208184824
+2022-03-15 10:09:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-15 10:09:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:09:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-15 10:09:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1777043124
+2022-03-15 10:09:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-15 10:09:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:09:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-15 10:09:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1997704619
+2022-03-15 10:09:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-15 10:09:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:09:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 10:09:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1041451158
+2022-03-15 10:09:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 10:09:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:09:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-15 10:09:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1160106451
+2022-03-15 10:09:52 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-15 10:09:52 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 10:09:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 10:09:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:09:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1137667747
+2022-03-15 10:10:00 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 10:10:00 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:10:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-15 10:10:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:10:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1223303171
+2022-03-15 10:10:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-15 10:10:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 10:10:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 10:10:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:10:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started749098095
+2022-03-15 10:10:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 10:10:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:10:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-15 10:10:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:10:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started754707140
+2022-03-15 10:10:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-15 10:10:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 10:10:23 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-15 10:10:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 10:10:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1591954203
+2022-03-15 10:10:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-15 10:10:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 12:04:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 12:04:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 12:04:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1027569178
+2022-03-15 12:05:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 12:05:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 12:06:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 12:06:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 12:06:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1027569178
+2022-03-15 12:07:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 12:07:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 16:02:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 16:02:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:02:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started515036017
+2022-03-15 16:02:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 16:02:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 16:03:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-15 16:03:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:03:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1932303196
+2022-03-15 16:03:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-15 16:03:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:03:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-15 16:03:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:03:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1756988236
+2022-03-15 16:03:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-15 16:03:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:03:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-15 16:03:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:03:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1850680894
+2022-03-15 16:03:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-15 16:03:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:03:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-15 16:03:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:03:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started976725249
+2022-03-15 16:03:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-15 16:03:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:03:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 16:03:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:03:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1648278215
+2022-03-15 16:04:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 16:04:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 16:04:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 16:04:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:04:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1985280051
+2022-03-15 16:04:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 16:04:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:04:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 16:04:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:04:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started650679651
+2022-03-15 16:04:52 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 16:04:52 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:04:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-15 16:04:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:04:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1412752396
+2022-03-15 16:05:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-15 16:05:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:05:02 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-15 16:05:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:05:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1852655488
+2022-03-15 16:05:09 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-15 16:05:09 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:19:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-15 16:19:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:19:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started19578363
+2022-03-15 16:19:52 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-15 16:19:52 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:19:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-15 16:19:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:19:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1146859833
+2022-03-15 16:20:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-15 16:20:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:20:02 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-15 16:20:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:20:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started281487983
+2022-03-15 16:20:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-15 16:20:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:20:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-15 16:20:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:20:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1793469566
+2022-03-15 16:20:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-15 16:20:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:20:20 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 16:20:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:20:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2005293363
+2022-03-15 16:21:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 16:21:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-03-15 16:21:02 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 16:21:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:21:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1397338694
+2022-03-15 16:21:09 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 16:21:09 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:21:10 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 16:21:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:21:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1357944757
+2022-03-15 16:24:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 16:24:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:24:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-15 16:24:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:24:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started839259983
+2022-03-15 16:24:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-15 16:24:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 16:24:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-15 16:24:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 16:24:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1792904767
+2022-03-15 16:25:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-15 16:25:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-03-15 19:37:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-15 19:37:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:37:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started999334666
+2022-03-15 19:37:57 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-15 19:37:57 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:37:58 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-15 19:37:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2071364564
+2022-03-15 19:38:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-15 19:38:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-15 19:38:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started720638621
+2022-03-15 19:38:12 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-15 19:38:12 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-15 19:38:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1897732690
+2022-03-15 19:38:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-15 19:38:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:21 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 19:38:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started358847552
+2022-03-15 19:38:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 19:38:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-15 19:38:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2055276126
+2022-03-15 19:38:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-15 19:38:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 19:38:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1315447704
+2022-03-15 19:38:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 19:38:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-15 19:38:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started905159212
+2022-03-15 19:38:52 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-15 19:38:52 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:38:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 19:38:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:38:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started671536858
+2022-03-15 19:39:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 19:39:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:39:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-15 19:39:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:39:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started155829656
+2022-03-15 19:39:13 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-15 19:39:13 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:39:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-15 19:39:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:39:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started118566118
+2022-03-15 19:39:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-15 19:39:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:41:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-15 19:41:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:41:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started179441020
+2022-03-15 19:41:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-15 19:41:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-15 19:41:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-15 19:41:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:41:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1609038183
+2022-03-15 19:41:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-15 19:41:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-15 19:41:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-15 19:41:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:41:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started724525007
+2022-03-15 19:41:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-15 19:41:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-15 19:41:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-15 19:41:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:41:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1929218620
+2022-03-15 19:41:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-15 19:41:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-15 19:41:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-15 19:41:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:41:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started904031493
+2022-03-15 19:42:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-15 19:42:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:42:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-15 19:42:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:42:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1914538677
+2022-03-15 19:42:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-15 19:42:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:42:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 19:42:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:42:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started622396011
+2022-03-15 19:42:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-15 19:42:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-15 19:42:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-15 19:42:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:42:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started102946788
+2022-03-15 19:42:58 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-15 19:42:58 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:42:58 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 19:42:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:43:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1220292558
+2022-03-15 19:43:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-15 19:43:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-15 19:43:08 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-15 19:43:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:43:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1578712821
+2022-03-15 19:43:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-15 19:43:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-15 19:43:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-15 19:43:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-15 19:43:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started419441460
+2022-03-15 19:43:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-15 19:43:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:01:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 09:01:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:01:19 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1299885218
+2022-03-16 09:01:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 09:01:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:01:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 09:01:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:01:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1417126346
+2022-03-16 09:01:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 09:01:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:01:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 09:01:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:01:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started730575236
+2022-03-16 09:01:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 09:01:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:01:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 09:01:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:01:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2101326063
+2022-03-16 09:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 09:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:01:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 09:01:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:01:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1167813715
+2022-03-16 09:02:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-16 09:02:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:02:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 09:02:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:02:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1610853733
+2022-03-16 09:02:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 09:02:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:02:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 09:02:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:02:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1167066016
+2022-03-16 09:02:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 09:02:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:02:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 09:02:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:02:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1114087362
+2022-03-16 09:02:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 09:02:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:02:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 09:02:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:02:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started956448191
+2022-03-16 09:03:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 09:03:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:03:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 09:03:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:03:07 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started670503317
+2022-03-16 09:03:11 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-16 09:03:11 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:03:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 09:03:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:03:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1415835701
+2022-03-16 09:03:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-16 09:03:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:32:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 09:32:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:32:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started703232177
+2022-03-16 09:32:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 09:32:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:32:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 09:32:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:32:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started557593923
+2022-03-16 09:32:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 09:32:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:32:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 09:32:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:32:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started60187547
+2022-03-16 09:32:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 09:32:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:32:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 09:32:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:32:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started581383895
+2022-03-16 09:32:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 09:32:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:45:21 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 09:45:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:45:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1299885218
+2022-03-16 09:45:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 09:45:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:45:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 09:45:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:45:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1417126346
+2022-03-16 09:45:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 09:45:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:45:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 09:45:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:45:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started332998175
+2022-03-16 09:45:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 09:45:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:45:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 09:45:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:45:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started927159199
+2022-03-16 09:45:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 09:45:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:46:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 09:46:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:46:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started952754390
+2022-03-16 09:46:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-16 09:46:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:46:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 09:46:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:46:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1801756410
+2022-03-16 09:46:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 09:46:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:46:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 09:46:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:46:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1274547241
+2022-03-16 09:46:57 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 09:46:57 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:46:58 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 09:46:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:47:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started581067007
+2022-03-16 09:47:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 09:47:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:47:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 09:47:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:47:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1698990491
+2022-03-16 09:47:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 09:47:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 09:47:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 09:47:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:47:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1177568763
+2022-03-16 09:47:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-16 09:47:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 09:47:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 09:47:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 09:47:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1865505544
+2022-03-16 09:47:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-16 09:47:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 10:44:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 10:44:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:44:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1093223281
+2022-03-16 10:44:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 10:44:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:44:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1985828309
+2022-03-16 10:44:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 10:44:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:44:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started454248060
+2022-03-16 10:44:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 10:44:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:44:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1505774574
+2022-03-16 10:45:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 10:45:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:45:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1699637904
+2022-03-16 10:45:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 10:45:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:45:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started671187578
+2022-03-16 10:45:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 10:45:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:45:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1663891411
+2022-03-16 10:46:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 10:46:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:46:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started382998309
+2022-03-16 10:46:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 10:46:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:46:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started848187074
+2022-03-16 10:46:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 10:46:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:46:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started260345895
+2022-03-16 10:46:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 10:46:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 10:46:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1406904781
+2022-03-16 11:01:15 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 11:01:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:01:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started585803886
+2022-03-16 11:01:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 11:01:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:01:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 11:01:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:01:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started541769471
+2022-03-16 11:01:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 11:01:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:01:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 11:01:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:01:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started189194499
+2022-03-16 11:01:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 11:01:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:01:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 11:01:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:01:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started59298126
+2022-03-16 11:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 11:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:01:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 11:01:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:01:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started977772506
+2022-03-16 11:02:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-16 11:02:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 11:02:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 11:02:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:02:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1745904086
+2022-03-16 11:02:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 11:02:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 11:02:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 11:02:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:02:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1111867240
+2022-03-16 11:02:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 11:02:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:02:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 11:02:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:02:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2055291664
+2022-03-16 11:02:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 11:02:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 11:02:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 11:02:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:02:54 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1844941220
+2022-03-16 11:02:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 11:02:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 11:03:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 11:03:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:03:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1491089257
+2022-03-16 11:03:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-16 11:03:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:03:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 11:03:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:03:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1042865302
+2022-03-16 11:03:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-16 11:03:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:55:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 11:55:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:55:10 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1270383967
+2022-03-16 11:55:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 11:55:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:55:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 11:55:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:55:23 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2025066647
+2022-03-16 11:55:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 11:55:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:55:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 11:55:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:55:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1004219512
+2022-03-16 11:55:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 11:55:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:55:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 11:55:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:55:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started413990536
+2022-03-16 11:55:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 11:55:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:55:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 11:55:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:55:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1673604690
+2022-03-16 11:56:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-16 11:56:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 11:56:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 11:56:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-03-16 11:56:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2050715938
+2022-03-16 11:56:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 11:56:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 11:56:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 11:56:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:56:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 11:56:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:56:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 11:56:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:56:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 11:56:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:56:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 11:56:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:58:55 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 11:58:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:59:04 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started734971558
+2022-03-16 11:59:09 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 11:59:09 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:59:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 11:59:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:59:19 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1688526221
+2022-03-16 11:59:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 11:59:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:59:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 11:59:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:59:36 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started717998169
+2022-03-16 11:59:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 11:59:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 11:59:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 11:59:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 11:59:53 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started82517097
+2022-03-16 11:59:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 11:59:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:00:02 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 12:00:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:00:11 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2092870757
+2022-03-16 12:00:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-16 12:00:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 12:00:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 12:00:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:00:55 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1168849885
+2022-03-16 12:01:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 12:01:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 12:01:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 12:01:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:01:12 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started594463953
+2022-03-16 12:01:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 12:01:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:01:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 12:01:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:01:26 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1685470793
+2022-03-16 12:01:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 12:01:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 12:01:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 12:01:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:01:43 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1422262786
+2022-03-16 12:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 12:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:01:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 12:01:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:02:03 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1707889234
+2022-03-16 12:02:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-16 12:02:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:02:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 12:02:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:02:20 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started120999784
+2022-03-16 12:02:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-16 12:02:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:07:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to login with valid credentials
+2022-03-16 12:07:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:07:27 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1449987177
+2022-03-16 12:07:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to login with valid credentials
+2022-03-16 12:07:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:07:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login with invalid credentials
+2022-03-16 12:07:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:07:45 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1609754699
+2022-03-16 12:07:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login with invalid credentials
+2022-03-16 12:07:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:07:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to login without providing credentials
+2022-03-16 12:07:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:07:59 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2113367449
+2022-03-16 12:08:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to login without providing credentials
+2022-03-16 12:08:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:08:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to reset the forgotten password
+2022-03-16 12:08:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:08:14 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1878454236
+2022-03-16 12:08:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to reset the forgotten password
+2022-03-16 12:08:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:08:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is able to place an order
+2022-03-16 12:08:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:08:30 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1825071442
+2022-03-16 12:09:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2022-03-16 12:09:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 12:09:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 12:09:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:09:17 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started320453674
+2022-03-16 12:09:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2022-03-16 12:09:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 12:09:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 12:09:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:09:35 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1515282013
+2022-03-16 12:09:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is allowed or not to register on skipping mandatory fields
+2022-03-16 12:09:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:09:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 12:09:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:09:50 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started320501014
+2022-03-16 12:09:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into application by opting for Newsletter subscription
+2022-03-16 12:09:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-03-16 12:09:58 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 12:09:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:10:05 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1744423762
+2022-03-16 12:10:12 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2022-03-16 12:10:12 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:10:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-03-16 12:10:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:10:22 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1266602046
+2022-03-16 12:10:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-03-16 12:10:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-03-16 12:10:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether user is informed when product being searched is not available
+2022-03-16 12:10:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2022-03-16 12:10:36 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1271515799
+2022-03-16 12:10:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether user is informed when product being searched is not available
+2022-03-16 12:10:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
