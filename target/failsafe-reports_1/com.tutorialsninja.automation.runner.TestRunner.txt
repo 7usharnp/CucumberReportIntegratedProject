@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.tutorialsninja.automation.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 207.577 s <<< FAILURE! - in com.tutorialsninja.automation.runner.TestRunner
-null on com.tutorialsninja.automation.runner.TestRunner(com.tutorialsninja.automation.runner.TestRunner)  Time elapsed: 207.337 s  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 154.931 s <<< FAILURE! - in com.tutorialsninja.automation.runner.TestRunner
+null on com.tutorialsninja.automation.runner.TestRunner(com.tutorialsninja.automation.runner.TestRunner)  Time elapsed: 154.133 s  <<< FAILURE!
 java.lang.BootstrapMethodError: java.lang.NoSuchMethodError: org.apache.pdfbox.pdmodel.interactive.annotation.PDAnnotation.constructAppearances()V
 Caused by: java.lang.NoSuchMethodError: org.apache.pdfbox.pdmodel.interactive.annotation.PDAnnotation.constructAppearances()V
 

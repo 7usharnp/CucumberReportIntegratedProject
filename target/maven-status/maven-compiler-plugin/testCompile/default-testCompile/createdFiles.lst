@@ -1,0 +1,6 @@
+com\tutorialsninja\automation\runner\TestRunner.class
+com\tutorialsninja\automation\stepdef\Search.class
+com\tutorialsninja\automation\stepdef\Hooks.class
+com\tutorialsninja\automation\stepdef\Order.class
+com\tutorialsninja\automation\stepdef\Register.class
+com\tutorialsninja\automation\stepdef\Login.class
